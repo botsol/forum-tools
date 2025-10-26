@@ -7,8 +7,8 @@
 // @match        https://forum.blackrussia.online/threads/*
 // @grant        none
 // @icon         https://i.postimg.cc/sgKbLbj9/verify-icon-png.jpg
-// @updateURL    https://raw.githubusercontent.com/botsol/forum-tools/main/moderator-pro.js
-// @downloadURL  https://raw.githubusercontent.com/botsol/forum-tools/main/moderator-pro.js
+// @updateURL    https://raw.githubusercontent.com/botsol/forum-tools/main/moderator.js
+// @downloadURL  https://raw.githubusercontent.com/botsol/forum-tools/main/moderator.js
 // @license      MIT
 // ==/UserScript==
 
