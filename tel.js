@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ! Модератор Tools | Все сервера Black Russia | Телефон
 // @namespace    https://forum.blackrussia.online
-// @version      1.0.1
+// @version      1.0.6
 // @description  Профессиональный инструмент модератора для мгновенного перемещения тем между разделами. Умное меню, автоматические ответы, работа в один клик!
 // @author       Botir_Soliev | https://vk.com/id250006978
 // @match        https://forum.blackrussia.online/threads/*
